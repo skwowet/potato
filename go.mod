@@ -1,3 +1,3 @@
-module github/yeganathan18/potato
+module github.com/yeganathan18/potato
 
 go 1.17
